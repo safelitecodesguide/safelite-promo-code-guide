@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://safelitecodesguide.github.io/safelite-promo-code-guide/sitemap.xml

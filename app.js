@@ -1,0 +1,2 @@
+function copyCode(btn,code){navigator.clipboard&&navigator.clipboard.writeText(code);btn.textContent='Copied \u2713';btn.classList.add('done');setTimeout(function(){btn.textContent='Copy Code';btn.classList.remove('done')},1800)}
+function filt(btn,kind){document.querySelectorAll('.filters button').forEach(function(b){b.classList.remove('active')});btn.classList.add('active');document.querySelectorAll('.card[data-kind]').forEach(function(c){c.style.display=(kind==='all'||c.getAttribute('data-kind').indexOf(kind)>-1)?'flex':'none'})}

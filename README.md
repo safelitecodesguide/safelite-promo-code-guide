@@ -9,4 +9,4 @@ Static site (no build step). 9 pages, shared style.css / app.js.
 4. Optional: submit sitemap.xml in Google Search Console for the github.io property.
 
 ## Data rule
-Code data = checkout tests at safelite.com, last tested October 21, 2026. Never add a code or an expiry date that has not been checkout-tested.
+Code data = checkout tests at safelite.com, last tested October 30, 2026. Never add a code or an expiry date that has not been checkout-tested.
